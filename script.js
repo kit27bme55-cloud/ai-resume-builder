@@ -3,7 +3,7 @@ async function generateSummary() {
 const skills =
 document.getElementById("skills").value;
 
-const API_KEY = "AIzaSyBOFUksbL-QF17UrdHEsdX5FjbU31IsZtY";
+const API_KEY = "AIzaSyBOF";
 
 try {
 
